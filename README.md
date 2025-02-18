@@ -2,9 +2,7 @@
 
 <!--
 **Gabrielsalesdealbuquerque/Gabrielsalesdealbuquerque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Título1
-## Título2
-### Título3
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Título1
+## Título2
+### Título3
